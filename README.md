@@ -5,7 +5,7 @@ Feel free to point out mistakes and help!
 
 ## Preview
 <p align="center">
-<img width="700" alt="image" src="https://im4.ezgif.com/tmp/ezgif-4-dabef742a7.gif">
+<img width="700" alt="image" src="https://cdn.discordapp.com/attachments/842248295351189506/970749329939787866/Screen_Recording_2022-05-01_at_9.39.44_PM.gif">
 </p>
 
 #
